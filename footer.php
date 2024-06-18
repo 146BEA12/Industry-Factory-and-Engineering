@@ -19,11 +19,11 @@
                             <div class="widget service-links-widget">
                                 <h3>Services</h3>
                                 <ul>
-                                    <li><a href="#">Agriculture Processing</a></li>
-                                    <li><a href="#">Chemical Research</a></li>
-                                    <li><a href="#">Metal Engineering</a></li>
-                                    <li><a href="#">Mechanical Engineering</a></li>
-                                    <li><a href="#">Petroleum &amp; Gas</a></li>
+                                    <li><a href="rental.php">Equipment rental</a></li>
+                                    <li><a href="safety-equip.php">Safety Equipment</a></li>
+                                    <li><a href="hvac.php">HVAC</a></li>
+                                    <li><a href="procurement.php">Procurement</a></li>
+                                    <li><a href="hydraulic.php">Hydraulic workshop</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -32,17 +32,17 @@
                             <div class="widget quick-links-widget">
                                 <h3>Navigation</h3>
                                 <ul>
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Service</a></li>
-                                    <li><a href="#">Projects</a></li>
-                                    <li><a href="#">Pricing</a></li>
-                                    <li><a href="#">News</a></li>
+                                    <li><a href="index.php">Main Page</a></li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="services.php">Service</a></li>
+                                    <li><a href="projects.php">Projects</a></li>
+                                    <li><a href="products.php">Productss</a></li>
+                                    <li><a href="news.php">News</a></li>
                                 </ul>
                                 <ul>
-                                    <li><a href="#">Gallery</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="licences.php">Licenses</a></li>
+                                    <li><a href="contact.php">Contact Us</a></li>
+                                    <li><a href="certificates.php">Privacy Policy</a></li>
                                 </ul>
                             </div>
                         </div>

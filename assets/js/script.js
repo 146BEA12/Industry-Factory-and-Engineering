@@ -670,7 +670,7 @@
                     "elementType": "labels.text.fill",
                     "stylers": [
                         {
-                            "color": "#0087C9"
+                            "color": "#0978bd"
                         }
                     ]
                 },
@@ -736,7 +736,7 @@
                     "elementType": "all",
                     "stylers": [
                         {
-                            "color": "#0087C9"
+                            "color": "#0978bd"
                         },
                         {
                             "visibility": "on"

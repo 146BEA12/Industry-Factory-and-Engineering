@@ -39,30 +39,18 @@
             <div class="row">
                 <div class="col col-sm-3">
                     <div class="site-logo">
-                        <a href="main.php"><img src="assets/images/logo-2.png" alt></a>
-                    </div>
-                </div>
-                <div class="col col-sm-6">
-                <div class="awards">
-                    
-                    <div>
-                        <a href=""><div class="icon"><i class="fi flaticon-medal"></i></div>
-                        <div class="award-info">
-                            <h4>Winner</h4>
-                            <p>Construction award 2016</p>
-                        </div></a>
+                        <a href="index.php"><img src="assets/images/logo-2.png" alt></a>
                     </div>
                 </div>
                 
-                </div>
-                <div class="col col-sm-3">
+                <div class="col col-sm-9">
                 <div class="cart-contact">
                         <div class="mini-cart">
-                            <button class="cart-toggle-btn"> Made in KZ </button>
-
+                        
+                            <button class="cart-toggle-btn" ><i><img src="assets/images/certificate.svg" alt="" width="50px"></i> Certificates </button>
+                            
                             <div class="top-cart-content">
                                 <div class="top-cart-title">
-                                    <p>Licences</p>
                                 </div>
                                 <div class="top-cart-items">
                                     <div class="top-cart-item clearfix">
@@ -110,34 +98,34 @@
                 <button class="close-navbar"><i class="fa fa-close"></i></button>
                 <ul class="nav navbar-nav">
                     <li class="menu-item-has-children">
-                        <a href="main.php">Main Page</a>
+                        <a href="index.php">Main Page</a>
                     </li>
                     <li><a href="news.php">News</a></li>
                     <li class="menu-item-has-children">
                         <a href="projects.php">Products</a>
                         <ul class="sub-menu">
-                            <li><a href="index-2.php">Air Filters</a></li>
-                            <li><a href="index-3.php">Safety & Emergency Response Equipment</a></li>
+                            <li><a href="air-filter.php">Air Filters</a></li>
+                            <li><a href="safety-equip.php">Safety & Emergency Response Equipment</a></li>
                             <li class="menu-item-has-children">
-                                <a href="index-4.php">Piping materials</a>
+                                <a >Piping materials</a>
                                 <ul class="sub-menu">
-                                    <li><a href="#">Piping spools</a></li>
-                                    <li><a href="#">Pipe bends</a></li>
-                                    <li><a href="#">Flanges</a></li>
-                                    <li><a href="#">Fittings</a></li>
+                                    <li><a href="piping-spools.php">Piping spools</a></li>
+                                    <li><a href="piping-bends.php">Pipe bends</a></li>
+                                    <li><a href="flanges.php">Flanges</a></li>
+                                    <li><a href="fittings.php">Fittings</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="index-5.php">Industrial Process Heating</a>
+                                <a>Industrial Process Heating</a>
                                 <ul class="sub-menu">
-                                    <li><a href="#">DURAG GROUP</a></li>
-                                    <li><a href="#">APACO AG</a></li>
-                                    <li><a href="#">EXHEAT</a></li>
-                                    <li><a href="#">GOUDA REFRACTORIE</a></li>
+                                    <li><a href="durag.php">DURAG GROUP</a></li>
+                                    <li><a href="apaco.php">APACO AG</a></li>
+                                    <li><a href="exheat.php">EXHEAT</a></li>
+                                    <li><a href="gouda.php">GOUDA REFRACTORIE</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="index-6.php">HVAC Equipment</a>
+                                <a>HVAC Equipment</a>
                                 <ul class="sub-menu">
                                     <li><a href="#">GEA BOCK</a></li>
                                     <li><a href="#">FLOWAIR</a></li>
@@ -153,10 +141,10 @@
                                     <li><a href="#">PK TITAN</a></li>
                                 </ul>
                             </li>
-                            <li><a href="index-7.php">UPS Components</a></li>
-                            <li><a href="index-6.php">Tools & Consumables</a></li>
+                            <li><a href="ups.php">UPS Components</a></li>
+                            <li><a href="tools-consumables.php">Tools & Consumables</a></li>
                             <li class="menu-item-has-children">
-                                <a href="index-6.php">Industrial Hoses</a>
+                                <a>Industrial Hoses</a>
                                 <ul class="sub-menu">
                                     <li><a href="#">Continental Hoses</a></li>
                                     <li><a href="#">Alfagomma Hoses</a></li>
@@ -169,7 +157,7 @@
                                 </ul>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="index-6.php">Motion Products</a>
+                                <a>Motion Products</a>
                                 <ul class="sub-menu">
                                     <li><a href="#">Driving Belts (PI belt)</a></li>
                                     <li><a href="#">Driving Belts (GATES)</a></li>
@@ -180,17 +168,17 @@
                                     <li><a href="#">Conveyor Belts (SKF)</a></li>
                                 </ul>
                             </li>
-                            <li><a href="index-6.php">Spill Management Products</a></li>
+                            <li><a href="spill.php">Spill Management Products</a></li>
                             <li class="menu-item-has-children">
-                                <a href="index-6.php">Measuring Equipment</a>
+                                <a>Measuring Equipment</a>
                                 <ul class="sub-menu">
-                                    <li><a href="#">WIKA</a></li>
-                                    <li><a href="#">BLISS ANAND</a></li>
-                                    <li><a href="#">FARRIS</a></li>
-                                    <li><a href="#">BADOTHERM</a></li>
+                                    <li><a href="wika.php">WIKA</a></li>
+                                    <li><a href="bliss.php">BLISS ANAND</a></li>
+                                    <li><a href="farris.php">FARRIS</a></li>
+                                    <li><a href="badotherm.php">BADOTHERM</a></li>
                                 </ul>
                             </li>
-                            <li><a href="index-6.php">Distributorship</a></li>
+                            <li><a href="distributorship.php">Distributorship</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
@@ -218,7 +206,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="#">Licenses</a>
+                        <a href="licences.php">Licenses</a>
                     </li>
                     <li>
                         <a href="#">Quality</a>
@@ -230,7 +218,6 @@
                 </ul>
             </div><!-- end of nav-collapse -->
 
-            
             <a href="#" class="theme-btn-s2 request-quote">Request Quote</a>
         </div><!-- end of container -->
     </nav> <!-- end navigation -->

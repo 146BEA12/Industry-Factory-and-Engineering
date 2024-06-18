@@ -111,7 +111,7 @@
                                         <img src="assets/images/products/safety.jpg" alt>
                                     </div>
                                     <div class="details">
-                                        <h3><a href="#">Safety & Emergency Response Equipment</a></h3>
+                                        <h3><a href="safety-equip.php">Safety & Emergency Response Equipment</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -160,7 +160,7 @@
                 </div>
             </div> <!-- end container -->
         </section>
-         <!-- recent-project --> 
+         <!-- recent-project --> <!--
         <section class="section-padding projects-grid-view-section">
             <div class="container">
                 <div class="row">
@@ -272,8 +272,8 @@
                 <div class="row more-projects">
                     <a href="#" class="theme-btn">More projects</a>
                 </div>
-            </div> <!-- end container -->
-        </section>
+            </div> 
+        </section> -->
         <!-- end recent-project -->        
 
 

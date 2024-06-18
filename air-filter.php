@@ -72,7 +72,7 @@
                     <div class="col col-xs-12">
                         <h2>Air filters</h2>
                         <ol class="breadcrumb">
-                            <li><a href="main.php">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Air filters</li>
                         </ol>
                     </div>

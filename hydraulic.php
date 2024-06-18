@@ -74,7 +74,7 @@
                     <div class="col col-xs-12">
                         <h2>Hydraulic workshop</h2>
                         <ol class="breadcrumb">
-                            <li><a href="main.php">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Hydraulic workshop</li>
                         </ol>
                     </div>

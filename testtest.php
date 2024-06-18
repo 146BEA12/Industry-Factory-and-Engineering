@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Video</title>
+</head>
+<body>
+    <form action="upload.php" method="post" enctype="multipart/form-data">
+        <input type="file" name="video" accept="video/*">
+        <button type="submit" name="submit">Upload Video</button>
+    </form>
+</body>
+</html>
